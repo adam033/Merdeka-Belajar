@@ -8,16 +8,16 @@ Pada project kali ini saya akan membuat berupa web rapid test dengan bebrapa per
 ![Alt Text](https://github.com/adam033/Merdeka-Belajar/blob/master/Screenshot%20(152).png)
 
 ### Registrasi Form
-![Alt Text](https://github.com/adam033/Merdeka-Belajar/blob/master/Screenshot%20(152).png)
+![Alt Text](https://github.com/adam033/Merdeka-Belajar/blob/master/Screenshot%20(153).png)
 
 ### Form Rapid Test
-![Alt Text](https://github.com/adam033/Merdeka-Belajar/blob/master/Screenshot%20(152).png)
+![Alt Text](https://github.com/adam033/Merdeka-Belajar/blob/master/Screenshot%20(154).png)
 
 ### Hasil Rapid test
-![Alt Text](https://github.com/adam033/Merdeka-Belajar/blob/master/Screenshot%20(152).png)
+![Alt Text](https://github.com/adam033/Merdeka-Belajar/blob/master/Screenshot%20(155).png)
 
 ### Tabel Anggota
-![Alt Text](https://github.com/adam033/Merdeka-Belajar/blob/master/Screenshot%20(152).png)
+![Alt Text](https://github.com/adam033/Merdeka-Belajar/blob/master/Screenshot%20(156).png)
 
 
 
